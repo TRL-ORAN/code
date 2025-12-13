@@ -138,8 +138,6 @@ In both the RAN and RIC systems, there are numerous code files involved. Below, 
         │   ├── xapp_handover_TRL.c                # xApp for TRL
 ├── TRL                                            
 │   └── train_xapp.sh                              # our TRL algrithm
-
-
 ```
 
 ### 2. Extend TRL
